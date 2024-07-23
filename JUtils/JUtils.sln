@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonStreaming", "JsonStreaming\JsonStreaming.csproj", "{3FBEEEB9-341F-493F-9D86-F979D9B33A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonStreaming.Tests", "JsonStreaming.Tests\JsonStreaming.Tests.csproj", "{45322CC0-D509-4BF8-A626-1E80944CBA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graft", "Graft\Graft.csproj", "{BC674DF8-4B24-4DB8-8F0D-1CDE94FE9782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graft.Tests", "Graft.Tests\Graft.Tests.csproj", "{380CABDB-BAB4-4992-8DE7-9A1CD71FAB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBEEEB9-341F-493F-9D86-F979D9B33A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBEEEB9-341F-493F-9D86-F979D9B33A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBEEEB9-341F-493F-9D86-F979D9B33A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBEEEB9-341F-493F-9D86-F979D9B33A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45322CC0-D509-4BF8-A626-1E80944CBA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45322CC0-D509-4BF8-A626-1E80944CBA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45322CC0-D509-4BF8-A626-1E80944CBA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45322CC0-D509-4BF8-A626-1E80944CBA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC674DF8-4B24-4DB8-8F0D-1CDE94FE9782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC674DF8-4B24-4DB8-8F0D-1CDE94FE9782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC674DF8-4B24-4DB8-8F0D-1CDE94FE9782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC674DF8-4B24-4DB8-8F0D-1CDE94FE9782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380CABDB-BAB4-4992-8DE7-9A1CD71FAB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380CABDB-BAB4-4992-8DE7-9A1CD71FAB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380CABDB-BAB4-4992-8DE7-9A1CD71FAB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380CABDB-BAB4-4992-8DE7-9A1CD71FAB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
